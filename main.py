@@ -1,3 +1,5 @@
+from pathlib import Path
+
 class MarkdownTable:
 
     def __init__(self, dataframe):
